@@ -47,8 +47,3 @@ def match_analysis(
     
     result = predict_match(team1, team2, venue, t1_list, t2_list)
     return {"analysis": result}
-
-
-# rapid api key - 'x-rapidapi-host: cricbuzz-cricket.p.rapidapi.com' \
-	# "
-    # "x-rapidapi-key: f8e4629926msh28c7446942a9091p1cea8cjsn183e3da63559'"
