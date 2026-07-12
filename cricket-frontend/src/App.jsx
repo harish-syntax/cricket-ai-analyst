@@ -1,7 +1,7 @@
 import { useState } from "react";
 import ReactMarkdown from "react-markdown";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://cricket-ai-analyst.onrender.com";
 
 // ─── Reusable Components ───────────────────────────────────────────────────
 

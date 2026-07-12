@@ -47,3 +47,7 @@ def match_analysis(
     
     result = predict_match(team1, team2, venue, t1_list, t2_list)
     return {"analysis": result}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 963571f (Remove exposed API key from frontend)
